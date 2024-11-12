@@ -32,7 +32,7 @@ To use Qamrood, you will need an **activation key**. You can purchase the activa
 ### Steps
 
 1. **Download the IPA File**:
-   - Get the `Qamrood.ipa` file from [this link](#).
+   - Get the `Qamrood.ipa` file from [this link](https://github.com/0xfff0800/Qamrood-App/releases).
 
 2. **Install AltStore** (or any other IPA installer):
    - If using AltStore, download it from the [official website](https://altstore.io).
@@ -58,7 +58,7 @@ To use Qamrood, you will need an **activation key**. You can purchase the activa
 
 ## Support
 
-If you encounter any issues or have questions about the app, please contact us at [support@qamrood.com](mailto:support@qamrood.com).
+If you encounter any issues or have questions about the app, please contact us at [flaaah777@gmail.com](mailto:flaaah777@gmail.com).
 
 ---
 
